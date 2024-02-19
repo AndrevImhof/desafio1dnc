@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    font-family: inter;
+       
+}
+#menusuperior{
+    background-color: #303030;
+ 
+}
+
+#titulo-menusuperior{
+    margin-left: 50px;
+    color: #FFFFFF;
+    padding-top: 200px;
+    font-weight: 600px;
+    font-size: 60px;
+    
+}
+
+#texto-menusuperior{
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-bottom: 135px;
+    color: #FFFFFF;
+    font-weight: 600px;
+    font-size: 21px;
+    
+}
+
+
+#menuinformacional{
+   background-color: #f5f5f5;
+   display: grid;
+   grid-auto-flow: column;
+   columns: auto;
+   padding: 50px 0px 40px 150px;
+
+}
+
+.titulo-info{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.texto-info{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#proposta{
+    padding: 250px 0px 0px 100px;
+   
+}
+
+
+
+.texto-proposta{
+    padding-top: 50px;
+    width: 735px;
+    height: 161px;
+   
+}
+
+.imagemcasa{
+    margin-left: 800px;
+    margin-bottom: 70px;
+    width: 510px;
+    height: 605px;
+    padding-bottom: 0px;
+    margin-right: 0px;
+    margin-top: -410px;
+}
+
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    padding-top: 40px;
+    
+   
+}
+
+#tituloformulario{
+    font-size: 32px;
+    margin: 25px;
+    color: #FFFFFF;
+    line-height: 48px;
+    
+}
+
+input{
+    width: 406px;
+    height: 58px;
+    background-color: #EAECE5;
+    margin: 25px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-family: raleway;
+    font-size: larger;
+    
+     
+}
+
+button{
+    background-color: #C07212;
+    height: 60px;
+    width: 270px;
+    color: #EAECE5;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 26px;
+    cursor: pointer
+    margin-top: 50px;
+    font-family: raleway;
+    
+}
+
+button:hover{
+    background-color: #db7c07; 
+    color: white;
+    transform: translateY(-6px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 2px 10px;
+}
+
+
+
